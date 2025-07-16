@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Awais</h1>
-<h3 align="center">A Passionate Front-End & WordPress Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A Passionate Front-End & WordPress Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Creative+Web+Designer+%F0%9F%96%8C%EF%B8%8F;WordPress+Specialist+with+1.5+Years+Experience;Front-End+Developer+(HTML%2C+CSS%2C+JS%2C+React);Freelancer+on+Fiverr+%26+Social+Media" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Creative+Web+Designer;WordPress+Expert+%26+Front-End+Developer;1.5+Years+of+Experience;Let's+Build+Your+Dream+Website!" />
 </p>
 
 ---
