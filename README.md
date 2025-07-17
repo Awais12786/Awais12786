@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awais</h1>
-<h3 align="center">A Passionate Front-End & WordPress Developer </h3>
+<h3 align="center" style="font-size: 10px;">A Passionate Front-End & WordPress Developer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Creative+Web+Designer;WordPress+Expert+%26+Front-End+Developer;1.5+Years+of+Experience;Let's+Build+Your+Dream+Website!" />
