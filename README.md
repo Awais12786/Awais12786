@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awais</h1>
-<h3 align="center" style="font-size: 5px;">A Passionate Front-End & WordPress Developer</h3>
+<h3 align="center">A Passionate Front-End-Developer</h3>
+<h3 align="center"> & WordPress Desinger </h3>
 
 
 <p align="center">
