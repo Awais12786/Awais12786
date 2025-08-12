@@ -15,9 +15,9 @@
 - 🌱 I’m learning **MERN Stack & Advanced React**
 - 👨‍💻 My latest live projects:
   - 🔗 [mydecorpk.com](https://mydecorpk.com)
-  - 🔗 [lahorifastfood.com](https://lahorifastfood.com)
-  - 🔗 [basmatransport.com](http://basmatransport.com)
   -  🔗 [https://financior.co.uk/](https://financior.co.uk/)
+  - 🔗 [basmatransport.com](http://basmatransport.com)
+  -  🔗 [lahorifastfood.com](https://lahorifastfood.com)
 - 🧠 I’m also working on improving my **JavaScript** and **Backend skills**
 - 💬 Ask me about **WordPress, Elementor, Front-End, or Freelancing**
 - 📫 How to reach me: **[awais127866@gmail.com](mailto:awais127866@gmail.com)**
