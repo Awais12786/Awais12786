@@ -15,7 +15,7 @@
 - 🌱 I’m learning **MERN Stack & Advanced React**
 - 👨‍💻 My latest live projects:
   - 🔗 [mydecorpk.com](https://mydecorpk.com)
-  -   🔗 [restCountryProject]([http://basmatransport.com](https://avicountryapiproject.netlify.app/))
+  -   🔗 [https://avicountryapiproject.netlify.app/]([http://basmatransport.com](https://avicountryapiproject.netlify.app/))
   -  🔗 [https://financior.co.uk/](https://financior.co.uk/)
   - 🔗 [basmatransport.com](http://basmatransport.com)
   -  🔗 [lahorifastfood.com](https://lahorifastfood.com)
